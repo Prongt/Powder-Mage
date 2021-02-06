@@ -1,0 +1,9 @@
+"packs": [
+    {
+      "name": "Powder-Mage",
+      "label": "Powder Mage",
+      "system": "dnd5e",
+      "path": "./packs/powder-mage.db",
+      "entity": "Item"
+    },
+]

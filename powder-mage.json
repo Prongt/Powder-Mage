@@ -1,3 +1,11 @@
+"name": "Powder-Mage",
+  "title": "Minimal World Building",
+  "description": "Many details here.",
+  "version": "1.0.0",
+  "templateVersion": 2,
+  "author": "Eoin Ahern",
+
+
 "packs": [
     {
       "name": "Powder-Mage",
